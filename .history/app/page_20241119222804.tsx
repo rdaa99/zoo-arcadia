@@ -27,9 +27,9 @@ export default function Home() {
         </p>
 
         <Link href="/faq">
-          <span className="text-blue-500 hover:underline text-lg">
+          <a className="text-blue-500 hover:underline text-lg">
             Consultez notre FAQ
-          </span>
+          </a>
         </Link>
         <Button
           className="mt-4 px-6 py-3 bg-green-600 text-white rounded-lg hover:bg-green-800"
@@ -124,7 +124,9 @@ export default function Home() {
       {/* Footer */}
       <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center text-gray-500 mt-12">
         <p>© 2024 Zoo Arcadia - Tous droits réservés</p>
-        <Link href="/mentions-legales">Mentions Légales</Link>
+        <Link href="/mentions-legales">
+          <a className="hover:underline">Mentions Légales</a>
+        </Link>
       </footer>
     </div>
   );
