@@ -107,7 +107,7 @@ export default function ContactPage() {
       <div className="text-center mt-12">
         <Link href="/">
           <span className="inline-block text-blue-500 hover:underline text-lg">
-            Retour à l'accueil
+            Retour à l&apos;accueil
           </span>
         </Link>
       </div>

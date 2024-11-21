@@ -96,9 +96,9 @@ export default function Habitats() {
           />
           <h2 className="text-2xl font-semibold text-green-800 mb-2">Désert</h2>
           <p className="text-gray-700 mb-4">
-            Entrez dans l'univers désertique où vivent nos chameaux et reptiles
-            du désert. Découvrez comment ces espèces survivent aux conditions
-            les plus arides.
+            Entrez dans l&apos;univers désertique où vivent nos chameaux et
+            reptiles du désert. Découvrez comment ces espèces survivent aux
+            conditions les plus arides.
           </p>
         </div>
       </div>
@@ -107,7 +107,7 @@ export default function Habitats() {
       <div className="text-center mt-12">
         <Link href="/">
           <span className="inline-block text-blue-500 hover:underline text-lg">
-            Retour à l'accueil
+            Retour à l&apos;accueil
           </span>
         </Link>
       </div>

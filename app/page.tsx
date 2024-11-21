@@ -20,7 +20,7 @@ export default function Home() {
         />
 
         <p className="text-lg sm:text-left max-w-2xl text-gray-700">
-          Plongez dans un environnement où la nature et l'éducation se
+          Plongez dans un environnement où la nature et l&apos;éducation se
           rencontrent. Explorez nos habitats diversifiés et découvrez des
           animaux fascinants. Rejoignez des activités éducatives pour toute la
           famille et créez des souvenirs inoubliables.
@@ -47,7 +47,8 @@ export default function Home() {
             Depuis 1960, le Zoo Arcadia est un lieu où la biodiversité est
             célébrée. Situé près de la forêt de Brocéliande, notre zoo accueille
             des animaux venant de divers habitats. Nous sommes fiers de notre
-            indépendance énergétique et de notre engagement envers l'écologie.
+            indépendance énergétique et de notre engagement envers
+            l&apos;écologie.
           </p>
         </section>
 
@@ -114,9 +115,9 @@ export default function Home() {
             Contactez-nous
           </h2>
           <p className="text-lg text-gray-700 mt-4">
-            Avez-vous des questions? N'hésitez pas à nous contacter via notre
-            formulaire de contact ou à consulter la FAQ pour plus
-            d'informations.
+            Avez-vous des questions? N&apos;hésitez pas à nous contacter via
+            notre formulaire de contact ou à consulter la FAQ pour plus
+            d&apos;informations.
           </p>
         </section>
       </main>

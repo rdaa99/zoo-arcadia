@@ -99,7 +99,7 @@ export default function Services() {
           href="/"
           className="inline-block text-blue-500 hover:underline text-lg"
         >
-          Retour à l'accueil
+          Retour à l&apos;accueil
         </Link>
       </div>
     </div>
